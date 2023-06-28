@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# list tcp and udp port
+netstat -al -aep
